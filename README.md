@@ -1,4 +1,4 @@
-# Detect land and sea contrast in high-resolution Ocean surface wind data
+# Analyse land and sea contrast in high-resolution Ocean surface wind data
 Using Fourier series to decompose linear and cyclic trends of high-resolution wind data in kilometre-scale simulations.
 
 ## Data description
