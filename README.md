@@ -16,14 +16,9 @@ Plot the parameters of all these component trends to see
 * Standard deviation of wind speed in the area
 * Coefficients of the AR term in residuals after removing linear and diurnal trends
 
-Map of land and sea in Sahel (Africa)
-![image](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/899423e4-49a3-4d69-9457-3c6e89f1bc91)
-
-Amplitude of 24h cycle
-![image](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/10ce0d7b-86c3-43ae-87df-ec4f8b0f17eb)
-
-Amplitude of 12h cycle
-![image](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/e75e7c7f-6abc-48d0-9724-563c4add1bd1)
-
-Standard error of residuals
-![image](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/8856a113-9008-4daf-9e90-01ea0326b901)
+![Presentation1](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/a71e7dca-3654-4f5b-8d6a-cb4e6d5bddac)
+![Presentation2](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/e12d1947-f1ec-4564-bfe2-84ee9278b607)
+![Presentation3](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/2d960564-eca0-41f4-b9d4-6e606ac8b1db)
+![Presentation4](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/e69fcb85-1a5d-4647-98bc-827d7018c029)
+![Presentation5](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/615a5cd8-410a-49ac-aac9-04ec09136ed9)
+![Presentation6](https://github.com/melliemainguyen71/wind_speed_land_sea_contrast/assets/98959461/20938568-686d-4f83-8ca8-44d3f15a7750)
